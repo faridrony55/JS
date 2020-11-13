@@ -1,0 +1,11 @@
+   $(window).on('load', function() {
+     
+    function Load() { 
+      setTimeout(function() {
+         $('class').fadeOut(1000);
+      }, 1500);
+    }
+    Load();
+  });
+  
+   
